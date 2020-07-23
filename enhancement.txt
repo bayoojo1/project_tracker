@@ -1,0 +1,8 @@
+Enhancement Suggestions
+Change the filter dropdown to only display project that have tasks assigned to them.
+Allow users to enter a date range.
+Add time as HH:MM not just minutes.
+Allow for multiple users.
+Add notes to tasks.
+Allow filters to be used together. Example: show billable projects for the last week.
+Add a timer to the website to track your time for you.
